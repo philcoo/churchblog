@@ -4,3 +4,16 @@
 .list{
 		font-size: 17px;
 }
+button{
+	font-size: 18px;
+	margin-bottom: 2em;
+}
+footer {
+    display: flex;
+    min-height: 10vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
